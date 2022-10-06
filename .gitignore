@@ -14,7 +14,7 @@ config
 
 # Crash log files
 crash.log
-
+node_modules
 #
 *.tfvars
 .terraform
